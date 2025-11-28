@@ -1,0 +1,16 @@
+# Ignore datasets
+*.csv
+archive/
+archive*/
+*.zip
+
+# Ignore Jupyter auto checkpoints
+.ipynb_checkpoints/
+
+# Ignore temporary files
+*.tmp
+*.log
+
+# Ignore large data
+data/
+datasets/
